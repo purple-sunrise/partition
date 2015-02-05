@@ -1,0 +1,2 @@
+# partition
+Partition into terms
